@@ -11,7 +11,9 @@ pip install -r requirements.txt
 
 ## Usage
 
-Copy your image files into the "input_files" directory and run main.py to generate a PDF file, which will be saved in a folder named "output_files". (python=3.8 was used)
+Clone this repository to your local drive.
+
+Create a directory within your current directory titled "input_files", copy your image files into the "input_files" directory and run main.py to generate a PDF file, which will be saved in a folder named "output_files". (python=3.8 was used)
 
 ```bash
 python main.py
